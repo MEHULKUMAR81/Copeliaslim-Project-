@@ -1,4 +1,4 @@
-# Copeliaslim-Project-
+# Coppeliasim-Project-
 
 
 The project involves implementing a control framework for a mobile manipulator to perform a 
